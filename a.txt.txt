@@ -1,2 +1,2 @@
 welcome
-this is a .txt
+this is a.txt is modified using CLONE
